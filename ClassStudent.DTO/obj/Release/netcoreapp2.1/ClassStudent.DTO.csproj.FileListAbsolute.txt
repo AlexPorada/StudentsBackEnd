@@ -1,0 +1,11 @@
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\bin\Release\netcoreapp2.1\ClassStudent.DTO.deps.json
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\bin\Release\netcoreapp2.1\ClassStudent.DTO.runtimeconfig.json
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\bin\Release\netcoreapp2.1\ClassStudent.DTO.runtimeconfig.dev.json
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\bin\Release\netcoreapp2.1\ClassStudent.DTO.dll
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\bin\Release\netcoreapp2.1\ClassStudent.DTO.pdb
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\obj\Release\netcoreapp2.1\ClassStudent.DTO.csprojAssemblyReference.cache
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\obj\Release\netcoreapp2.1\ClassStudent.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\obj\Release\netcoreapp2.1\ClassStudent.DTO.AssemblyInfoInputs.cache
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\obj\Release\netcoreapp2.1\ClassStudent.DTO.AssemblyInfo.cs
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\obj\Release\netcoreapp2.1\ClassStudent.DTO.dll
+D:\Projects\ClassStudentTestCoreApp\BackEnd\ClassStudent\ClassStudent.DTO\obj\Release\netcoreapp2.1\ClassStudent.DTO.pdb
